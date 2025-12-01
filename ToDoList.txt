@@ -1,0 +1,5 @@
+01.12.25 | 18:38 => project was started
+TodoList:
+02.12.25 => need to create board and basic menu logic ( fill x or o logic ) => Status: Not Realized
+03.12.25 => create full logic and finish game => Status: Not Realized
+03.12.25 - 04.12.25 (After finish) => deploy project to GitHub => Status: Not Realized.
